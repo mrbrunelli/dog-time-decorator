@@ -1,13 +1,13 @@
 {
-  "name": "ts-decorators",
+  "name": "dog-timer-decorator",
   "version": "1.0.0",
-  "description": "",
+  "description": "Example of Dog Ceo API implementation with Node.js",
   "main": "index.js",
   "scripts": {
     "start": "ts-node app.ts"
   },
   "keywords": [],
-  "author": "",
+  "author": "Matheus Ricardo Brunelli <matheus.brunelli@gmail.com>",
   "license": "ISC",
   "devDependencies": {
     "@types/axios": "^0.14.0",
